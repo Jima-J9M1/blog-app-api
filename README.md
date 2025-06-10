@@ -8,7 +8,7 @@ A simple, yet robust, RESTful API for a blog application built with Go, featurin
 
 ## Table of Contents
 
-  * [Features](https://www.google.com/search?q=%23features)
+  * [Features](#features)
   * [Technologies Used](https://www.google.com/search?q=%23technologies-used)
   * [Getting Started](https://www.google.com/search?q=%23getting-started)
       * [Prerequisites](https://www.google.com/search?q=%23prerequisites)
