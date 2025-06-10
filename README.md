@@ -1,5 +1,3 @@
-Got it\! Here's the `README.md` formatted as requested:
-
 -----
 
 # Go Blog API
